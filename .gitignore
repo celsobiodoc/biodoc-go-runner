@@ -1,0 +1,9 @@
+# Ignorar imagens
+image/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Saída/artefatos
+*.bin
